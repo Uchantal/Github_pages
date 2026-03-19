@@ -28,8 +28,6 @@ jobs:
 
       - name: Check for broken links
         run: |
-          gem install html-proofer
           bundle exec htmlproofer ./_site \
             --disable-external \
-            --ignore-urls "/^#/" \
-            --allow-missing-href true
+            --ignore-urls "/^#/"
