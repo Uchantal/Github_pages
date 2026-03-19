@@ -4,7 +4,7 @@ description: >-
   A personal developer portfolio and blog built with Jekyll and hosted on GitHub Pages.
   Showcasing projects, sharing insights on web development, mobile, DevOps, and more.
 baseurl: "/Github_pages"
-url: "https://Uchantal.github.io"
+url: "https://uchantal.github.io"
 
 # Theme - Cayman (GitHub Pages supported theme, not Minima)
 theme: jekyll-theme-cayman

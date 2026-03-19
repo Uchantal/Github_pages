@@ -8,7 +8,7 @@ permalink: /submission/
 
 **What is the URL of your website?**
 
-https://Uchantal.github.io/Github_pages/
+https://uchantal.github.io/Github_pages/
 
 ---
 
