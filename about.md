@@ -33,3 +33,4 @@ Outside of coding, I enjoy reading, exploring new technologies, and contributing
 ---
 
 Feel free to [contact me](/contact/) or check out my [projects](/projects/).
+

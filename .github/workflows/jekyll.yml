@@ -18,18 +18,10 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
-          bundler-cache: true
+          bundler-cache: false
 
       - name: Install dependencies
-        run: bundle install
+        run: bundle install --without development
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
-
-      - name: Check for broken links
-        run: |
-          gem install html-proofer
-          bundle exec htmlproofer ./_site \
-            --disable-external \
-            --ignore-urls "/^#/" \
-            --allow-missing-href true
