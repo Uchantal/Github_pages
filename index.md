@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to Githubactions
+# Chantal's Dev Portfolio & Blog
 
 Hello! I'm Chantal — a passionate developer exploring the world of software, web development, and open source.
 

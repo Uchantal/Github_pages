@@ -1,8 +1,8 @@
-title: Githubactions
+title: Chantal's Dev Portfolio & Blog
 email: chantal@example.com
 description: >-
-  A personal website built with Jekyll and hosted on GitHub Pages.
-  Exploring projects, blog posts, and more.
+  A personal developer portfolio and blog built with Jekyll and hosted on GitHub Pages.
+  Showcasing projects, sharing insights on web development, mobile, DevOps, and more.
 baseurl: "/Github_pages"
 url: "https://Uchantal.github.io"
 

@@ -1,6 +1,6 @@
-# Githubactions
+# Chantal's Dev Portfolio & Blog
 
-A personal website built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
+A personal developer portfolio and blog built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). Showcasing projects, sharing insights on web development, mobile, DevOps, and more.
 
 ## Live Site
 
