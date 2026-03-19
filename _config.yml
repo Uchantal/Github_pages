@@ -3,7 +3,7 @@ email: chantal@example.com
 description: >-
   A personal website built with Jekyll and hosted on GitHub Pages.
   Exploring projects, blog posts, and more.
-baseurl: "/Githubactions"
+baseurl: "/Github_pages"
 url: "https://Uchantal.github.io"
 
 # Theme - Cayman (GitHub Pages supported theme, not Minima)
